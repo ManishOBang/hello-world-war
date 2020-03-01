@@ -6,6 +6,7 @@
 	<h1>Hello World!</h1>
 	<h2>Feature1 is added</h2>
 	<h3>added a new line to see if it gets triggered from github </h3>
+	<h4>For email notification</h4>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
